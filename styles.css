@@ -9,6 +9,7 @@ div{
 button{
     padding: 10px;
     border-radius: 10px;
+    background-color: rgb(55, 55, 153);
 }
 button:hover{
     border: 2px solid black;
