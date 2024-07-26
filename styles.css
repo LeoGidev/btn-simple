@@ -5,3 +5,8 @@ body{
 div{
     border: 2px solid black;
 }
+
+button{
+    padding: 10px;
+    border-radius: 10px;
+}
